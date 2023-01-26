@@ -1,0 +1,23 @@
+body {
+    background-color: #FBE8D7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#intro {
+    margin: auto;
+    width: fit-content;
+    color: #DE8D24;
+}
+
+#impan {
+    margin: auto;
+    margin-top: 200px;
+    color: #963F24;
+    width: fit-content;
+}
+
+#mountainimg {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
