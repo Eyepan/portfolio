@@ -1,31 +1,54 @@
 body {
+    background-image: url('../images/cloudmountain.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0;
-    background-color: #f9f4f1;
     font-family: 'Roboto Mono', monospace;
-
+    text-align: center;
+    color: white;
 }
 
 #links {
     margin: auto;
     width: fit-content;
-    color: #DE8D24;
+    color: #ff9d00;
 }
 
-
-#impan {
+h1 {
     margin: auto;
-    margin-top: 15%;
-    color: #963F24;
+    margin-top: 5%;
+    color: #5a463b;
     width: fit-content;
 }
 
 
-#mountainimg {
-    display: block;
-    margin: auto;
-    width: 100%;
-}
-
 a {
     color: #5a463b;
+}
+
+
+table {
+    margin: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    text-align: left;
+}
+
+
+#profilePic {
+    padding: 2%;
+    padding-top: 5%;
+}
+
+
+p {
+    padding-left: 5%;
+    padding-right: 5%;
 }
